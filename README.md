@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Kaushik Kateel 
 
-<!--
-**kaushikkateel/kaushikkateel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning whatever I can
 - 👯 I’m looking to collaborate on web developement
