@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kaushik Kateel 
+### Hello world 👋 I am Kaushik Kateel 
 
 - 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning whatever I can
