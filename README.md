@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love playing online games🎮🎮 
 
 <br />
-<br />
 
 ---
 ### Languages and Tools:
@@ -23,12 +22,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)  
 
-<br />
 <br />
 
 ---
@@ -36,7 +33,6 @@
  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />  
 </a>
 
-<br />
 <br />
 
 ---
@@ -48,7 +44,6 @@
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitch.svg" />][twitch]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
 <br />
 
 [twitter]: https://twitter.com/kaushikkateel
