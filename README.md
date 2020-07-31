@@ -37,7 +37,6 @@
 <a href="https://github.com/kaushikkateel/KannadaTextRecognition">
   <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=KannadaTextRecognition&theme=tokyonight" /></img>
 </a>
-<br />
 
 <br />
 
