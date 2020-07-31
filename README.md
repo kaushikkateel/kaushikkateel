@@ -33,9 +33,12 @@
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs" />
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [twitter]: https://twitter.com/kaushikkateel
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/kaushikkateel
