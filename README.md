@@ -26,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)
 
+<br />
+<br />
 
 ### Connect with me:
 
