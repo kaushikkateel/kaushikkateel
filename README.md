@@ -4,8 +4,11 @@
 - 🌱 I’m currently learning whatever I can
 - 👀 I’m looking to collaborate on web developement
 - ⚡ Fun fact: I love playing online games🎮🎮 
+
+<br />
 <br />
 
+---
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
@@ -25,10 +28,13 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)  
 
+<br />
+<br />
+
+---
 <a>
  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />  
 </a>
-
 
 <br />
 <br />
