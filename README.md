@@ -27,15 +27,15 @@
 ### Repositories:
 
 <a href="https://github.com/kaushikkateel/Stadia-of-Olympus">
-  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" /></img>
+  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&theme=tokyonight" /></img>
 </a>
 <br />
 <a href="https://github.com/kaushikkateel/PulwamaAttack2019t">
-  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=PulwamaAttack2019&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" /></img>
+  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=PulwamaAttack2019&theme=tokyonight" /></img>
 </a>
 <br />
 <a href="https://github.com/kaushikkateel/KannadaTextRecognition">
-  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=KannadaTextRecognition&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" /></img>
+  <img  src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=KannadaTextRecognition&theme=tokyonight" /></img>
 </a>
 <br />
 
