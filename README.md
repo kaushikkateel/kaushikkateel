@@ -23,8 +23,19 @@
 
 <br />
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27)
 
+<a href="https://github.com/kaushikkateel/Stadia-of-Olympus">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" />
+</a>
+<a href="https://github.com/kaushikkateel/PulwamaAttack2019t">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=PulwamaAttack2019&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" />
+</a>
+<a href="https://github.com/kaushikkateel/KannadaTextRecognition">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=KannadaTextRecognition&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" />
+</a>
+<a href="https://github.com/kaushikkateel/Sahya-Robo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Sahya-Robos&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" />
+</a>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)  
