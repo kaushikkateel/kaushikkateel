@@ -39,4 +39,4 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/kaushikkateel
 [linkedin]: https://linkedin.com/in/kaushikkateel
-[twitch]: twitch.tv/p3wcy
+[twitch]: https://twitch.tv/p3wcy
