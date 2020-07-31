@@ -44,7 +44,7 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&bg_color=1A1B27)](https://github.com/kaushikkateel/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27)](https://github.com/kaushikkateel/github-readme-stats)  
 
 
 
