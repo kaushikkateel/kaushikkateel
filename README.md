@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&show_icons=true&theme=tokyonight" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&show_icons=true&theme=tokyonight&hide=stars,prs" />
 
 [twitter]: https://twitter.com/kaushikkateel
 [youtube]: https://youtube.com/codeSTACKr
