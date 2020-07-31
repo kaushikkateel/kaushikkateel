@@ -37,6 +37,7 @@
 <a href="https://github.com/kaushikkateel/KannadaTextRecognition">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=KannadaTextRecognition&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27" /></img>
 </a>
+<br />
 
 <br />
 
