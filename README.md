@@ -23,7 +23,7 @@
 
 <br />
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=000000&icon_color=f9f9f9&text_color=5e5587&bg_color=a0d1f2)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=70A4FC&icon_color=BE91F2&text_color=38BCAD&bg_color=1A1B27)
 
 ---
 
