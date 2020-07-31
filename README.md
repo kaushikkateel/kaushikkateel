@@ -23,6 +23,8 @@
 
 <br />
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kaushikkateel&repo=Stadia-of-Olympus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=a0d1f2)
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact)](https://github.com/kaushikkateel/github-readme-stats)  
@@ -43,10 +45,6 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 [twitter]: https://twitter.com/kaushikkateel
 [youtube]: https://youtube.com/codeSTACKr
