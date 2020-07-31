@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning whatever I can
-- 👯 I’m looking to collaborate on web developement
-- ⚡ Fun fact: I love playing online games 
+- 👀 I’m looking to collaborate on web developement
+- ⚡ Fun fact: I love playing online games🎮🎮 
 <br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
