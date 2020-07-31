@@ -41,7 +41,7 @@
 
 <br />
 
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&theme=tokyonight)](https://github.com/kaushikkateel/github-readme-stats)  
 
 
