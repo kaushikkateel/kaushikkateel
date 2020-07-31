@@ -34,7 +34,7 @@
 <br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&show_icons=true&hide_border=true" />
 
-[Email]: kaushikkateel@gmail.com
+[Email]: https://kaushikkateel@gmail.com
 [twitter]: https://twitter.com/kaushikkateel
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/kaushikkateel
