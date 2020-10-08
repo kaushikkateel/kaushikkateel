@@ -1,7 +1,9 @@
 ## Hi, I am Kaushik Kateel <img align="right" src="https://media1.tenor.com/images/e4df3b45153d9bb28120c4eda24851fa/tenor.gif?itemid=12101909"/>
 ### I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender</a> as a hobby, and I play video games when i'm bored.    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&theme=tokyonight)](https://github.com/kaushikkateel/github-readme-stats)
+
 <div class="tenor-gif-embed" data-postid="7953536" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/hacker-hackerman-kung-fury-gif-7953536">Hackerman GIF</a> from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
