@@ -12,7 +12,7 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [twitter]: https://twitter.com/kaushikkateel
-[youtube]: https://youtube.com
+[youtube]: https://www.youtube.com/channel/UCoKBv0wdPBjOskBocl-PZjQ?view_as=subscriber
 [instagram]: https://instagram.com/kaushikkateel
 [linkedin]: https://linkedin.com/in/kaushikkateel
 [twitch]: https://twitch.tv/p3wcy
