@@ -1,16 +1,11 @@
-### Hello everyone, I am Kaushik Kateel and I play video games
+### Hi, I am Kaushik Kateel
 
 <br />
 
 ---
+I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender as a hobby,</a> and I play video games when i'm bored.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&theme=tokyonight)](https://github.com/kaushikkateel/github-readme-stats)  
-
-
-
-<a>
- <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaushikkateel&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />  
-</a>
 
 
 ### Connect with me:
@@ -24,7 +19,7 @@
 <br />
 
 [twitter]: https://twitter.com/kaushikkateel
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com
 [instagram]: https://instagram.com/kaushikkateel
 [linkedin]: https://linkedin.com/in/kaushikkateel
 [twitch]: https://twitch.tv/p3wcy
