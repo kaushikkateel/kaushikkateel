@@ -1,5 +1,6 @@
 ## Hi, I am Kaushik Kateel <img  width="50" height="50" src="https://media1.tenor.com/images/a15b2494f4b279c0a27216882c9a6abf/tenor.gif?itemid=17946611"/>
 <img align="right" src="https://media1.tenor.com/images/e4df3b45153d9bb28120c4eda24851fa/tenor.gif?itemid=12101909"/>
+
 ### I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender</a> as a hobby, and I play video games when i'm bored.    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&theme=tokyonight)](https://github.com/kaushikkateel/github-readme-stats)
 
