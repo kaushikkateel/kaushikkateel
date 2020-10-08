@@ -14,4 +14,4 @@
 [linkedin]: https://linkedin.com/in/kaushikkateel
 [twitch]: https://twitch.tv/p3wcy
 <br/>
-<img align="left" src="https://www.instagram.com/p/CGAYkC6lpFP/?utm_source=ig_web_copy_link"/>
+<img align="left" src="https://media1.tenor.com/images/e4df3b45153d9bb28120c4eda24851fa/tenor.gif?itemid=12101909"/>
