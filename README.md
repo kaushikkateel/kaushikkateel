@@ -1,7 +1,5 @@
 ### Hi, I am Kaushik Kateel
-
 <br />
-
 ---
 I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender</a> as a hobby, and I play video games when i'm bored.
 
