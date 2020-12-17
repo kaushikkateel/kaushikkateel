@@ -1,4 +1,4 @@
-## Hi, I am Kaushik Kateel <img  width="50" height="50" src="https://media1.tenor.com/images/a15b2494f4b279c0a27216882c9a6abf/tenor.gif?itemid=17946611"/>
+## Hi, I am Kaushik Kateel
 
 
 ### I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender</a> as a hobby, and I play video games when i'm bored.    
