@@ -1,7 +1,7 @@
-## Hi, I am Kaushik Kateel
+## Yo
 
 
-### I'm a software engineer professionally, I create things/art using <a href="https://www.blender.org/">Blender</a> as a hobby, and I play video games when i'm bored.    
+### I code every now and then and play video games when i'm bored.    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkateel&layout=compact&theme=tokyonight)](https://github.com/kaushikkateel/github-readme-stats)
 
 
